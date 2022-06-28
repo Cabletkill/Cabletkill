@@ -2,7 +2,7 @@
 
 
 - 🔭 Ocupação:
-- Estou atualmente trabalhando como Assitente de Site.  
+- Assitente de Site.  
 - 👨‍🎓 Graduação:
 - Gestão Financeira.
 - 💻 Cursos atuais:
