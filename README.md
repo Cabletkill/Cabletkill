@@ -1,5 +1,5 @@
  
-<h1 align="center">Olá 👋, Me chamo Ricardo Silva</h1>
+<h1 align="center">Olá 👋, Me chamo Ricardo Silva</h1> 
 <h3 align="center">Altamente empenhado e aprender e aplicar ciência de dados!</h3>
 
 <h5 align="center">- 🌱 Estou estudando - **Python, SQL, R, para analise de dados.**</h5>
